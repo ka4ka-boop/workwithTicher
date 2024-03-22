@@ -1,0 +1,318 @@
+body {
+  font-family: "montserrat", sans-serif;
+}
+ul {
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+}
+.title {
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.16667;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  text-align: center;
+  color: #111;
+}
+
+.title .accent {
+  color: #fd9222;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+/* header -------------------------------*/
+.header-logo {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.11;
+  letter-spacing: -0.03em;
+  color: #111;
+}
+
+.header-logo-italic {
+  font-style: italic;
+}
+
+.header-menu-link {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14286;
+  letter-spacing: -0.02em;
+  color: #111;
+}
+
+/* --------hero----------------------------- */
+.hero {
+  background-color: rgba(17, 17, 17, 0.6);
+}
+
+.hero-title {
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 1.21;
+  letter-spacing: -0.03em;
+  color: #fff;
+}
+
+.hero-btn-main {
+  font-weight: 600;
+  font-size: 14px;
+  color: #fff;
+  cursor: pointer;
+}
+
+.hero-btn-link {
+  font-weight: 600;
+  font-size: 14px;
+  color: #fff;
+}
+
+.hero-btn-scroll {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.29;
+  letter-spacing: -0.03em;
+  color: #fff;
+}
+
+/* advantages -------------------*/
+.advantages {
+  background: #1e1823;
+}
+
+.advantages-list {
+}
+
+.advantage-items {
+}
+
+.advantages-subtitle {
+  font-weight: 600;
+  font-size: 18px;
+  color: #fff;
+}
+
+.advantage-item-title {
+  font-size: 14px;
+  line-height: 1.29;
+  letter-spacing: -0.02em;
+  color: rgba(255, 255, 255, 0.7);
+}
+/*chocolate taste -----------------------*/
+.taste-title {
+}
+
+.taste-text {
+  font-size: 14px;
+  line-height: 1.29;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: #111;
+}
+.taste-list {
+}
+.taste-list-item {
+}
+.taste-images {
+}
+.taste-subtitle {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.29;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  color: #fff;
+}
+/* made--------------------------- */
+.made {
+}
+
+.made-title {
+}
+
+.made-images {
+}
+
+.made-subtitle {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.33;
+  color: #111;
+}
+.made-list {
+}
+
+.made-list-item {
+}
+
+.made-item-text {
+  font-size: 14px;
+  line-height: 1.29;
+  letter-spacing: -0.02em;
+  color: #111;
+}
+/* product -------------------*/
+.product {
+}
+
+.product-title {
+}
+
+.product-list {
+}
+
+.product-list-item {
+}
+
+.product-images {
+}
+
+.product-subtitle {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.33;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  color: #111;
+}
+
+.product-item-text {
+  font-size: 12px;
+  line-height: 1.17;
+  letter-spacing: -0.02em;
+  color: rgba(17, 17, 17, 0.7);
+}
+
+.product-btn {
+  font-weight: 600;
+  font-size: 14px;
+  color: #111;
+}
+/* sellers--------------- */
+.sellers {
+}
+
+.sellrs-title {
+}
+
+.sellers-list {
+}
+
+.sellers-list-item {
+}
+
+.sellers-images {
+}
+
+.sellers-subtitle {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.33;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  color: #111;
+}
+/* loved -----------------*/
+.loved {
+}
+
+.loved-title {
+}
+
+.title {
+}
+
+.accent {
+}
+
+.loved-list {
+}
+
+.loved-list-item {
+}
+
+.loved-images {
+}
+
+.loved-subtitle {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.33;
+  text-align: center;
+  color: #111;
+}
+.loved-text {
+  font-size: 14px;
+  line-height: 1.29;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: rgba(17, 17, 17, 0.7);
+}
+.loved-btn {
+  font-weight: 600;
+  font-size: 18px;
+  color: #111;
+}
+/* footer---------------- */
+.footer {
+  background: #1e1823;
+}
+.footer-text {
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 1.21;
+  letter-spacing: -0.02em;
+  color: #fff;
+}
+.footer-text .accent {
+  color: #fd9222;
+}
+.footer-subtitle {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.29;
+  text-align: center;
+  color: #fff;
+}
+.footer-soc-list {
+}
+.footer-soc-item {
+}
+.footer-soc-link {
+}
+.footer-contacts {
+}
+.footer-contact-list {
+}
+.footer-contact-link {
+  font-size: 14px;
+  line-height: 1.29;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: #fff;
+}
+.footer-menu-list {
+}
+.footer-menu-item {
+}
+.footer-menu-link {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: -0.02em;
+  color: #fff;
+}
